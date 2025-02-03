@@ -1,1 +1,1 @@
-aom/aom/aom_external_partition.h
+../../aom/aom/aom_external_partition.h
